@@ -2,8 +2,8 @@
   "WBUI2": {
     "settings": {
       "OpenButton": 0,
-      "HideIcon": false,
-      "HideIconAfter": 60,
+      "HideIcon": true,
+      "HideIconAfter": 240,
       "IconURL": "https://i.imgur.com/CeOajiL.png",
       "DisableIconText": true,
       "IconPosition": 0,
@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
           "title1": "<TextStyle.Green>---- Welcome to Yggdrasil Gaming Community Ark:SA Cluster ----</>",
           "text1": "<TextStyle.White>Yggdrasil Gaming Community began in NOV 2017 to create a nice, friendly community and gaming environment for everyone to enjoy playing Ark together.</>\n\n<TextStyle.White>Please read our rules using the button below before playing. Join Discord using the link button on the bottom of the screen and be sure to register.</>\n\n<TextStyle.White>To learn more about the plugins on our server use the 'Chat Commands' button above to read about the in-game commands available.</>\n\n<TextStyle.White>Our servers are supported by donations from the community. We like to say a big thankyou to members of our community that donate and become VIP members with some rewards and benefits. If you would like to donate or want to know more about supporting us then please click the 'Donation Store' button below which will take you to the store page.</>\n\n<TextStyle.White>We hope you enjoy playing on our servers and being a part of our wonderful community</>",
           "imageurl": "https://i.imgur.com/MMTGtJp.jpg"
@@ -24,41 +24,20 @@
       },
       {
         "tab2": {
-          "layout": 2,
-          "buttontext": "2 Box layout",
-          "title1": "Left title",
-          "title2": "Right title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "layout": 1,
+          "buttontext": "Chat Commands",
+          "title1": "<TextStyle.Green>Chat Commands Available to you in game</>",
+          "text1": "<TextStyle.White>Here are some usefull commands to use in Global/Tribe/Local/Alliance Chat :-</>\n\n<TextStyle.White>/decay - Will show you how many days are left on the tribes structures you are currently looking at.</>\n<TextStyle.White>/groups - Tells you what group you are currently in. Everyone will be in the 'Default Group' and there is also a 'VIP' group for donators.</>\n",
+          "imageurl": "https://i.imgur.com/MMTGtJp.jpg"
         }
       },
       {
         "tab3": {
-          "layout": 3,
-          "buttontext": "3 Box layout",
-          "title1": "Left title",
-          "title2": "Top right title",
-          "title3": "Bottom left title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab4": {
-          "layout": 4,
-          "buttontext": "4 Box layout",
-          "title1": "Top left title",
-          "title2": "<TextStyle.Green>Top right title</>",
-          "title3": "<TextStyle.Blue>bottom left title</>",
-          "title4": "<TextStyle.Yellow>bottom right title</>",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "layout": 1,
+          "buttontext": "Support and Help",
+          "title1": "We offer help and support on our Discord ticket system",
+          "text1": "<TextStyle.White>If you require any assistance from an Admin or member of staff then please be sure to join our Discord using the button below.</>\n<TextStyle.White>On our Discord we have a great ticketing system. If you scroll to the bottom of Discord there is a 'Open-a-ticket' channel which you can use to open a ticket with staff and we will do our best to help you when we can. </>\n\n<TextStyle.White>Please take into account that Ark:SA is still in development at the moment and it will have bugs and issues.</>",
+          "imageurl": "https://i.imgur.com/MMTGtJp.jpg"
         }
       }
     ],
@@ -71,14 +50,20 @@
       },
       {
         "link2": {
+          "text": "Rules",
+          "url": "https://docs.google.com/document/d/1zd71ME7jMEmyHjuNjvPWCt8JbQ9MXrW9-l2BPjsU0SA/edit?usp=sharing"
+        }
+      },
+      {
+        "link3": {
           "text": "Discord",
           "url": "https://discord.com/invite/a2YZ2Gwafe"
         }
       },
       {
-        "link3": {
-          "text": "Link to google",
-          "url": "https://google.com"
+        "link2": {
+          "text": "Website (Under Maintenance)",
+          "url": "https://www.yggdrasil-gaming.co.uk/"
         }
       }
     ]
