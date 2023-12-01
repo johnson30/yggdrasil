@@ -17,7 +17,7 @@
         "tab1": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
-          "title1": "<TextStyle.Green>\n\n---- Welcome to Yggdrasil Gaming Community Ark:SA Cluster ----</>",
+          "title1": "\n\n<TextStyle.Green>---- Welcome to Yggdrasil Gaming Community Ark:SA Cluster ----</>",
           "text1": "\n\n<TextStyle.White>Yggdrasil Gaming Community began in NOV 2017 to create a nice, friendly community and gaming environment for everyone to enjoy playing Ark together.</>\n\n<TextStyle.White>Please read our 'Rules' using the button below before playing. Join 'Discord' using the link button on the bottom of the screen and be sure to register.</>\n\n<TextStyle.White>To learn more about the plugins on our server use the 'Chat Commands' button above to read about the in-game commands available.</>\n\n<TextStyle.White>Our servers are supported by donations from the community. We like to say a big thankyou to members of our community that donate and become VIP members with some rewards and benefits. If you would like to donate or want to know more about supporting us then please click the 'Donation Store' button below which will take you to the store page.</>\n\n<TextStyle.White>We hope you enjoy playing on our servers and being a part of our wonderful community</>",
           "imageurl": "https://i.imgur.com/MMTGtJp.jpg"
         }
