@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext": "Chat Commands",
           "title1": "\n\n<TextStyle.Green>Chat commands available to you in-game</>",
-          "text1": "\n\n<TextStyle.White>Here are some useful commands to use in Global/Tribe/Local/Alliance Chat :-</>\n\n<TextStyle.White>/decay - Will show you how many days are left on the tribes structures you are currently looking at.</>\n\n<TextStyle.White>/groups - Tells you what group you are currently in. There is a 'VIP' group for donators.</>\n",
+          "text1": "\n\n<TextStyle.White>Here are some useful commands to use in Global/Tribe/Local/Alliance Chat :-</>\n\n<TextStyle.White>/decay - Will show you how many days are left on the tribes structures you are currently looking at.</>\n\n<TextStyle.White>/groups - Tells you what group you are currently in. There is a 'VIP' group for donators.</>\n\n<TextStyle.White>/verify - Use this on Discord to link your Discord to in game.</>\n\n",
           "imageurl": "https://i.imgur.com/MMTGtJp.jpg"
         }
       },
