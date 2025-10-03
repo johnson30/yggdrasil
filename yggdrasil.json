@@ -20,7 +20,7 @@
           "title1": "\n\n<TextStyle.Green>---- Welcome to Yggdrasil Gaming Community Ark:SA Cluster ----</>",
           "text1": "\n\n<TextStyle.White>Yggdrasil Gaming Community began in NOV 2017 to create a nice, friendly community and gaming environment for everyone to enjoy playing Ark together.</>\n\n<TextStyle.White>Please read our 'Rules' before playing and join 'Discord' using the link buttons on the bottom of the screen and be sure to register and link your game account to Discord in 'Chat Commands'.</>\n\n<TextStyle.White>We have an in game shop (press F2) using points for certain items/materials. Points are earnt hourly when you link and verify your Discord account to your in game account. Use /verify on any channel on our Discord to link your account.</>\n\n<TextStyle.White>Our servers are run by donations from the community. We like to say a big thankyou to members of our community that donate and become VIP members with some rewards and benefits. Please click the 'Donation Store' button below which will take you to the store page.</>\n\n<TextStyle.White>We hope you enjoy playing on our servers and being a part of our wonderful community</>",
           
-          "imageurl": "https://i.imgur.com/MMTGtJp.jpg"
+          "imageurl": "https://i.postimg.cc/Gmzkc23V/Yggdrasil-Background1920-X1080.jpg"
         }
       },
       {
@@ -29,7 +29,7 @@
           "buttontext": "Chat Commands",
           "title1": "\n\n<TextStyle.Green>Chat commands available to you in-game</>",
           "text1": "\n\n<TextStyle.White>Here are some useful commands to use in Global/Tribe/Local/Alliance Chat :-</>\n\n<TextStyle.White>/decay - Will show you how many days are left on the tribes structures your looking at. Decay times are normally 2 weeks. If you link your account its 4 weeks and VIP donators get 9 weeks.</>\n\n<TextStyle.White>/groups - Tells you what group you are currently in. There is a 'VIP' group for donators.</>\n\n<TextStyle.White>/verify - Use this on Discord to link your Discord to in game. This needs to be done to get 4 weeks decay time and shop points.</>\n\n<TextStyle.White>/shop - You can access the in game shop using this command, or by pressing F2.</>\n\n<TextStyle.White>/points - Shows you how many shop points you have accrued. You can get shop points per hour by linking Discord to your in game account.</>\n\n<TextStyle.White>/redeem - Use this command followed by a space and your 'Tebex Transaction ID' to recieve your items after donating.</>\n\n<TextStyle.White>/limits - Will show your current building limits.</>\n\n<TextStyle.White>/download - Download any items uploaded into our cloud transfer system. Cannot use on maps where transfers are not open.</>\n\n<TextStyle.White>/upload - Upload any items into the cloud transfer. Can only use within 60 seconds of opening a Obelisk.</>\n\n<TextStyle.White>/shop 1 - For console users. Will show all items listed on page one of the Shop.</>\n\n<TextStyle.White>/buy - Use this followed by a space and the item name to buy an item from the Shop.</>\n\n",
-          "imageurl": "https://i.imgur.com/MMTGtJp.jpg"
+          "imageurl": "https://i.postimg.cc/Gmzkc23V/Yggdrasil-Background1920-X1080.jpg"
         }
       },
       {
@@ -38,7 +38,7 @@
           "buttontext": "Help and Support",
           "title1": "\n\n<TextStyle.Green>We offer friendly help and support</>",
           "text1": "\n\n<TextStyle.White>If you require any assistance from an Admin or member of staff then please be sure to join our Discord using the button below.</>\n\n<TextStyle.White>On our Discord we have a really great and easy to use ticketing system. If you scroll to the bottom of Discord there is a 'Open-a-ticket' channel which you can use to open a ticket with staff and we will do our best to help you when we can. If your first language is not English let us know and we can switch on a translate function in the ticket.</>\n\n<TextStyle.White>Please take into account that Ark:SA is still in development at the moment and it will have bugs and issues.</>",
-          "imageurl": "https://i.imgur.com/MMTGtJp.jpg"
+          "imageurl": "https://i.postimg.cc/Gmzkc23V/Yggdrasil-Background1920-X1080.jpg"
         }
       }
     ],
@@ -70,4 +70,5 @@
     ]
   }
 }
+
 
